@@ -18,7 +18,7 @@
 
 The *Main Concept (MC)* may or may not be explicitly mentioned in the sentence.
 
-![Capture](C:\Users\gargi_su0btum\Downloads\BITSG\NeuroLinguistics Reading Course\Capture.PNG)
+<img src = "Discourse/Capture.PNG">
 
 1. To identify semantic relatedness, a Wikification tool is used. This has two advantages:
    - identifies the MC mentioned using a different surface form. *(S3)*
@@ -46,7 +46,8 @@ Debate topics that focus on a single concept are chosen and that have at least 1
 
   4. CL should contain words that are indicative of claims in a general sense. Nouns, single-character-token, county-specific terms are excluded. This results in a lexicon of 586 words.
 
-     ![Capture2](C:\Users\gargi_su0btum\Downloads\BITSG\NeuroLinguistics Reading Course\Capture2.PNG)
+    
+   <img src = "Discourse/Capture2.PNG">
 
   5. Using this, corpus-wide claim detection can be performed by adding sentence re-ranking, boundary detection and simple filters. Sentences are ranking by the average of two scores
 

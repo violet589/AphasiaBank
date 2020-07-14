@@ -49,7 +49,8 @@ In storytelling analysis, the interviewee is asked to complete the story of Cind
 
 3. Using this above list, the Cinderella gems were scored a 1 if the word in the Core Lexicon was present in their gem, and 0 if not.
 
-   <img src="C:\Users\gargi_su0btum\Downloads\BITSG\NeuroLinguistics Reading Course\Capture3.PNG" alt="Capture3" style="zoom: 50%;" />
+   <img src="AphasiaBank/Capture3.PNG" style="zoom: 67%;" />
+
 
    ##### Main Concept Method:
 
@@ -57,13 +58,13 @@ In storytelling analysis, the interviewee is asked to complete the story of Cind
 
    2. The transcript were scored according to the MC list with a grading from 0-3 where 0 = absent and 3= Accurate/Complete.
 
-      <img src="C:\Users\gargi_su0btum\Downloads\BITSG\NeuroLinguistics Reading Course\Capture4.PNG" alt="Capture4" style="zoom:50%;" />
+      <img src="AphasiaBank/Capture4.PNG" alt="Capture4" style="zoom:50%;" />
 
 
 
 The two methods are compared using medians and Spearman correlation between controls and PWAs.
 
-<img src="C:\Users\gargi_su0btum\Downloads\BITSG\NeuroLinguistics Reading Course\Capture5.PNG" alt="Capture5" style="zoom: 67%;" />
+<img src="AphasiaBank/Capture5.PNG" alt="Capture5" style="zoom: 67%;" />
 
 
 

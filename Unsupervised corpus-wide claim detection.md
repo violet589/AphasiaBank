@@ -36,13 +36,13 @@ Debate topics that focus on a single concept are chosen and that have at least 1
 2. This is followed by standard pre-processing like tokenization, stop-word removal, lower-casing, pos-tagging using OpenNLP. 
 
 3. Formally defining n1 as the number of sentences in c1 that contain w in the sentence suffix; n2 as the number of sentences in c2 that contain w;
-   $$
-   Psuff (c1|w) = n1/(n1 + n2).
-   $$
+   
+         Psuff (c1|w) = n1/(n1 + n2).
+   
    Claim Lexicon is the set of words that satisfies
-   $$
-     Psuff (c1|w) > P(c1)
-   $$
+  
+         Psuff (c1|w) > P(c1)
+   
 
   4. CL should contain words that are indicative of claims in a general sense. Nouns, single-character-token, county-specific terms are excluded. This results in a lexicon of 586 words.
 
